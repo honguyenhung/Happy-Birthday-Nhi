@@ -157,7 +157,23 @@
             </div>
         </div>
     </div>
-<audio src="./y2mate (mp3cut.net).mp3" id="linkmp3" class="sembunyi"></audio>
+
+
+<!-- Nhạc nền tự động phát sau khi click -->
+<audio id="bgMusic" autoplay muted loop>
+  <source src="setlove.mp3" type="audio/mpeg">
+  Trình duyệt của bạn không hỗ trợ phát nhạc.
+</audio>
+
+<script>
+  // Kích hoạt phát nhạc sau lần click đầu tiên
+  window.addEventListener('click', function () {
+    const audio = document.getElementById('bgMusic');
+    audio.muted = false;
+    audio.play();
+  }, { once: true });
+</script>
+
 </body>
 <script>
     let datetxt = "30 July";
