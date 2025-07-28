@@ -1023,3 +1023,24 @@ body {
     color: white;
     z-index: 10000000000000000;
 }
+.box__account .name {
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: var(--color-text-pink);
+    border-radius: 50px;
+    border: 3px solid var(--color-black);
+    font-family: 'Dancing Script', cursive;
+    display: flex;
+    align-items: center;
+    padding: 0px 20px;
+    z-index: 2;
+}
+
+.box__account .name span {
+    color: white;
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin: 0 10px;
+}
