@@ -1,1 +1,1 @@
-![Ảnh minh họa](download/Gay.jpg)
+<img src="Gay.jpg" width="300">
