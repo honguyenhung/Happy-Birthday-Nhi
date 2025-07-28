@@ -1,1 +1,2 @@
-![Ảnh demo](Gay.jpg)
+### Đây là ảnh demo:
+![Demo](Gay.jpg)
