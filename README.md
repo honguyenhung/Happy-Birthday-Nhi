@@ -1,1 +1,1 @@
-![Uploading Gay.jpg…]()
+![Ảnh demo](Gay.jpg)
