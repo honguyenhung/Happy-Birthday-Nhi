@@ -1,1 +1,1 @@
-![Uploading Gay.png…]()
+ Gay.png
