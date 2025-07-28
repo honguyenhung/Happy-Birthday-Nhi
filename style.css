@@ -1044,29 +1044,3 @@ body {
     font-weight: bold;
     margin: 0 10px;
 }
-.sticker {
-    position: absolute;
-    width: 60px;
-    z-index: 100;
-}
-
-.top-left {
-    top: 10px;
-    left: 10px;
-}
-
-.top-right {
-    top: 10px;
-    right: 10px;
-}
-
-.bottom-left {
-    bottom: 10px;
-    left: 10px;
-}
-
-.bottom-right {
-    bottom: 10px;
-    right: 10px;
-}
-
