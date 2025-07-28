@@ -1,1 +1,1 @@
-![Ảnh minh họa](Downloads/Gay.jpg)
+![Ảnh minh họa](download/Gay.jpg)
